@@ -43,5 +43,5 @@ For more information on license types, please reference to this website for addi
  * Email me with any questions: [satwinder47@outlook.com](mailto:satwinder47@outlook.com)
 
   ## Project Video Link
-  [This is a video link](https://drive.google.com/file/d/10NWd7l_LiinuWFtVqMJ1oJMxOy-OYviT/view?usp=sharing)
+  [This is a video link](https://drive.google.com/file/d/1xea961WbaVPN2zHSm54BLFiQ82ah2d41/view?usp=sharing)
 
